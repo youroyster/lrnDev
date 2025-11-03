@@ -3,7 +3,7 @@ name: Hello GitHub Actions
 on:
   push:
     branches:
-      - welcome-workflow 
+      - main
 
 jobs:
   greet:
